@@ -1,4 +1,5 @@
 import BmiCalculator from "@felvin-search-apps/bmi-calculator";
+import Metronome from "@felvin-search-apps/metronome";
 import Stopwatch from "@felvin-search-apps/stopwatch";
 import WhatDay from "@felvin-search-apps/what-day";
 import UrlEncoderDecoder from "@felvin-search-apps/url-encoder-decoder";
@@ -55,7 +56,11 @@ import Tetris from "@felvin-search-apps/tetris";
 import CourierTracker from "@felvin-search-apps/courier-tracker";
 
 const allApps = [
+<<<<<<< HEAD
   BmiCalculator,
+=======
+  Metronome,
+>>>>>>> 4cb6199b4164b85a6eb2c6da5692afeb7d1df7f2
   Stopwatch,
   WhatDay,
   UrlEncoderDecoder,
